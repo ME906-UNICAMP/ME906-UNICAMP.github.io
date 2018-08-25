@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "ME906 - Aprendizado Supervisionado de Máquina"
+author: "Profa. Tatiana Benaglia"
 description: "Really cool blog about ... something"
 more: "read more »"
 url: "https://ME906-UNICAMP.github.io/"
@@ -14,17 +14,18 @@ style:
 
 navigation:
   - index.html
-  - archive.html
+  - aulas.md
+  # - archive.html
   - about.md
 
 comments:
-  disqus: "disqus-contrast"
+#  disqus: "disqus-contrast"
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
   - twitter: "https://twitter.com/twitter/"
-  - github: "https://github.com/niklasbuschmann/contrast"
-  - envelope: "mailto:niklas.buschmann@posteo.de"
+  - github: "https://ME906-UNICAMP.github.io"
+  - envelope: "mailto:taitana@ime.unicamp.br"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
 sass: {style: expanded}
