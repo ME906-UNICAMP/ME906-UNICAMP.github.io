@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
+title: “ME906 - Métodos em Aprendizado Supervisionado de Máquina”
+author: “Profa. Tatiana Benaglia“
 description: "Really cool blog about ... something"
 more: "read more »"
-url: "https://niklasbuschmann.github.io/"
+url: "https://ME906-UNICAMP.github.io/"
 baseurl: "/contrast"
 paginate: 2
 permalink: pretty
